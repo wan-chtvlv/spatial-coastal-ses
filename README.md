@@ -10,8 +10,8 @@ This class is also a part of the Geospatial Information Science Certificate prog
 Criteria for assessing student performance:
 Grades will be based on the continued advancement of the project throughout the semester. The student will be submitting her project development 4 times throughout the semester:
 1.	Submission 1 Project GitHub Repo (due September 4)
-      o	Setting up a GitHub repository to share the work progress and submission
-      o	Setting up access to Amerel computing (visit: https://oarc.rutgers.edu/resources/amarel/) 
+      o	(/) Setting up a GitHub repository to share the work progress and submission
+      o	(x) Setting up access to Amerel computing (visit: https://oarc.rutgers.edu/resources/amarel/) --> Suggested to not use it until the data becomes too much for my computer to handle.
 2.	Submission 2 Project outline (due October 2): The outline document should include...
       o	Introduction
       o	Literature review
