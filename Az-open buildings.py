@@ -75,5 +75,3 @@ THA = visual_raw_by_country(country='THA', viz_sample=sample_size)
 VNM = visual_raw_by_country(country='VNM', viz_sample=50000)
 
 SEA_region = pd.concat([KHM, IDN, MYS, PHL, THA, VNM], ignore_index=True)
-
-# making changes to stage
